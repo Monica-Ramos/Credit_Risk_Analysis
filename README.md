@@ -12,7 +12,7 @@ This project seeks to employ and analyze different machine learning models that 
  * Balanced accuracy score: 87%
  * Precision: the precision for high risk loans is very small(3%) while the precision for the low-risk loans is of 100%. This indicates that the model correctly predicted low-risk all of the time but was not so good at predicting high-risk loans.
  * Recall: the recall for both low-risk and high-risk loans is fairly good, above 70%. This means that the model is good at predicting true positives for both types of loans especifically for low-risk loans.
- !()[Resources/Balanced_Random_Forest.png)
+ ![](Resources/Balanced_Random_Forest.png)
 
 ### Easy Ensemble Balanced Classifier
  * Balanced accuracy score: 79%
